@@ -1,0 +1,15 @@
+/home/sergeystrelov/Рабочий стол/Учеба/Тихонов/Тихинов2/bin/Debug/net6.0/Тихинов2
+/home/sergeystrelov/Рабочий стол/Учеба/Тихонов/Тихинов2/bin/Debug/net6.0/Тихинов2.deps.json
+/home/sergeystrelov/Рабочий стол/Учеба/Тихонов/Тихинов2/bin/Debug/net6.0/Тихинов2.runtimeconfig.json
+/home/sergeystrelov/Рабочий стол/Учеба/Тихонов/Тихинов2/bin/Debug/net6.0/Тихинов2.dll
+/home/sergeystrelov/Рабочий стол/Учеба/Тихонов/Тихинов2/bin/Debug/net6.0/ref/Тихинов2.dll
+/home/sergeystrelov/Рабочий стол/Учеба/Тихонов/Тихинов2/bin/Debug/net6.0/Тихинов2.pdb
+/home/sergeystrelov/Рабочий стол/Учеба/Тихонов/Тихинов2/obj/Debug/net6.0/Тихинов2.csproj.AssemblyReference.cache
+/home/sergeystrelov/Рабочий стол/Учеба/Тихонов/Тихинов2/obj/Debug/net6.0/Тихинов2.GeneratedMSBuildEditorConfig.editorconfig
+/home/sergeystrelov/Рабочий стол/Учеба/Тихонов/Тихинов2/obj/Debug/net6.0/Тихинов2.AssemblyInfoInputs.cache
+/home/sergeystrelov/Рабочий стол/Учеба/Тихонов/Тихинов2/obj/Debug/net6.0/Тихинов2.AssemblyInfo.cs
+/home/sergeystrelov/Рабочий стол/Учеба/Тихонов/Тихинов2/obj/Debug/net6.0/Тихинов2.csproj.CoreCompileInputs.cache
+/home/sergeystrelov/Рабочий стол/Учеба/Тихонов/Тихинов2/obj/Debug/net6.0/Тихинов2.dll
+/home/sergeystrelov/Рабочий стол/Учеба/Тихонов/Тихинов2/obj/Debug/net6.0/ref/Тихинов2.dll
+/home/sergeystrelov/Рабочий стол/Учеба/Тихонов/Тихинов2/obj/Debug/net6.0/Тихинов2.pdb
+/home/sergeystrelov/Рабочий стол/Учеба/Тихонов/Тихинов2/obj/Debug/net6.0/Тихинов2.genruntimeconfig.cache

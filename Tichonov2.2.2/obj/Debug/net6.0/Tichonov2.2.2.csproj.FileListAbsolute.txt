@@ -1,0 +1,15 @@
+/home/sergeystrelov/Рабочий стол/Учеба/Тихонов/Тихинов2/Tichonov2.2.2/bin/Debug/net6.0/Tichonov2.2.2
+/home/sergeystrelov/Рабочий стол/Учеба/Тихонов/Тихинов2/Tichonov2.2.2/bin/Debug/net6.0/Tichonov2.2.2.deps.json
+/home/sergeystrelov/Рабочий стол/Учеба/Тихонов/Тихинов2/Tichonov2.2.2/bin/Debug/net6.0/Tichonov2.2.2.runtimeconfig.json
+/home/sergeystrelov/Рабочий стол/Учеба/Тихонов/Тихинов2/Tichonov2.2.2/bin/Debug/net6.0/Tichonov2.2.2.dll
+/home/sergeystrelov/Рабочий стол/Учеба/Тихонов/Тихинов2/Tichonov2.2.2/bin/Debug/net6.0/ref/Tichonov2.2.2.dll
+/home/sergeystrelov/Рабочий стол/Учеба/Тихонов/Тихинов2/Tichonov2.2.2/bin/Debug/net6.0/Tichonov2.2.2.pdb
+/home/sergeystrelov/Рабочий стол/Учеба/Тихонов/Тихинов2/Tichonov2.2.2/obj/Debug/net6.0/Tichonov2.2.2.csproj.AssemblyReference.cache
+/home/sergeystrelov/Рабочий стол/Учеба/Тихонов/Тихинов2/Tichonov2.2.2/obj/Debug/net6.0/Tichonov2.2.2.GeneratedMSBuildEditorConfig.editorconfig
+/home/sergeystrelov/Рабочий стол/Учеба/Тихонов/Тихинов2/Tichonov2.2.2/obj/Debug/net6.0/Tichonov2.2.2.AssemblyInfoInputs.cache
+/home/sergeystrelov/Рабочий стол/Учеба/Тихонов/Тихинов2/Tichonov2.2.2/obj/Debug/net6.0/Tichonov2.2.2.AssemblyInfo.cs
+/home/sergeystrelov/Рабочий стол/Учеба/Тихонов/Тихинов2/Tichonov2.2.2/obj/Debug/net6.0/Tichonov2.2.2.csproj.CoreCompileInputs.cache
+/home/sergeystrelov/Рабочий стол/Учеба/Тихонов/Тихинов2/Tichonov2.2.2/obj/Debug/net6.0/Tichonov2.2.2.dll
+/home/sergeystrelov/Рабочий стол/Учеба/Тихонов/Тихинов2/Tichonov2.2.2/obj/Debug/net6.0/ref/Tichonov2.2.2.dll
+/home/sergeystrelov/Рабочий стол/Учеба/Тихонов/Тихинов2/Tichonov2.2.2/obj/Debug/net6.0/Tichonov2.2.2.pdb
+/home/sergeystrelov/Рабочий стол/Учеба/Тихонов/Тихинов2/Tichonov2.2.2/obj/Debug/net6.0/Tichonov2.2.2.genruntimeconfig.cache
